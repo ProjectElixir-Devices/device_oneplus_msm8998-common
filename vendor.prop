@@ -81,7 +81,7 @@ persist.vendor.qcom.bluetooth.soc=cherokee
 ro.vendor.bluetooth.wipower=false
 
 # Camera
-vendor.camera.aux.packagelist=com.android.camera,com.oneplus.camera,org.codeaurora.snapcam
+vendor.camera.aux.packagelist=com.android.camera,com.oneplus.camera,com.ngcam.camera
 
 # CNE
 persist.vendor.cne.feature=1
